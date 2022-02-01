@@ -1,2 +1,1 @@
-# math
-Notes on math
+# Notes on math
